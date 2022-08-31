@@ -1,0 +1,23 @@
+.customNav {
+    position: fixed;
+    height: 60px;
+    left: 0;
+    top: 0;
+    right: 0;
+    background: rgba(118, 65, 186, 0.871);
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
+
+.customNav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.customMain {
+    margin-top: 60px;
+    padding: 1rem;
+}

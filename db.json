@@ -1,0 +1,154 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "imageUrl": "https://www.notebookcheck-ru.com/uploads/tx_nbc2/SL4_AMD_1.jpg",
+            "name": "DELL",
+            "count": 4,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "200g",
+            "comments": [
+                {
+                    "id": 3,
+                    "productId": 1,
+                    "description": "Good product!",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 4,
+                    "productId": 1,
+                    "description": "Awful!",
+                    "date": "12:45 25.11.2021"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://images.prismic.io/frameworkmarketplace/5dc5fc06-aec5-4f28-a924-0230aa91a360_Pre-Marketplace+-+image_02.jpg?auto=compress,format",
+            "name": "MACKBOOK AIR",
+            "count": 3,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "300g",
+            "comments": [
+                {
+                    "id": 3,
+                    "productId": 1,
+                    "description": "Good product!",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 4,
+                    "productId": 1,
+                    "description": "Awful!",
+                    "date": "12:45 25.11.2021"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://media.wired.com/photos/5fb2cc575c9914713ead03de/master/w_1920,c_limit/Gear-Apple-MacBook-Air-top-down-SOURCE-Apple.jpg",
+            "name": "MACKBOOK PRO",
+            "count": 1,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "300g",
+            "comments": [
+                {
+                    "id": 3,
+                    "productId": 1,
+                    "description": "Good product!",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 4,
+                    "productId": 1,
+                    "description": "Awful!",
+                    "date": "12:45 25.11.2021"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://m.media-amazon.com/images/I/71p-M3sPhhL._AC_SY450_.jpg",
+            "name": "ASUS",
+            "count": 2,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "300g",
+            "comments": [
+                {
+                    "id": 3,
+                    "productId": 1,
+                    "description": "Good product!",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 4,
+                    "productId": 1,
+                    "description": "Awful!",
+                    "date": "12:45 25.11.2021"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05971650.png",
+            "name": "HP",
+            "count": 5,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "300g",
+            "comments": [
+                {
+                    "id": 3,
+                    "productId": 1,
+                    "description": "Good product!",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 4,
+                    "productId": 1,
+                    "description": "Awful!",
+                    "date": "12:45 25.11.2021"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://www.notebookcheck-ru.com/uploads/tx_nbc2/4zu3_Razer_Blade_15_Advanced_Model_2020.jpg",
+            "name": "Razer",
+            "count": 2,
+            "size": {
+                "width": 200,
+                "height": 200
+            },
+            "weight": "1200g",
+            "comments": [
+                {
+                    "id": 3,
+                    "productId": 1,
+                    "description": "Good product!",
+                    "date": "14:00 22.08.2021"
+                },
+                {
+                    "id": 4,
+                    "productId": 1,
+                    "description": "Awful!",
+                    "date": "12:45 25.11.2021"
+                }
+            ]
+        }
+    ]
+}
